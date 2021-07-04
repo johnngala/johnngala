@@ -21,7 +21,7 @@ function About(props) {
                     I am always surprised at how many small business owners want a website but 
                     are intimidated by reaching out to someone to create one for them.
                     My goal is to make that process as easy as possible for them.
-                    Yeah.That's about it.If you like to talk visit the Contact section and
+                    Yeah.That's about it.If you like to talk, visit the Contact section and
                     hit me up.
                 </p>
         </div>

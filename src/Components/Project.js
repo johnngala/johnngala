@@ -13,9 +13,9 @@ function Project() {
             <h1 className = 'project-title'>Oxymusic</h1>
             <img className= 'project_img' src = 'images/oxymusic.png' alt = "projct image"/>
             <p className= 'project_description' >
-                Oxymusic is a fun project that i build in my spare time.
+                Oxymusic is a fun project that I build in my spare time.
                 I've always frowned upon  how music apps come with  a lot 
-                of  unnecessary features,so i decided to build one that i would
+                of  unnecessary features,so i decided to build one that I would
                 love to use.The project is still a work in progress but 
                 coming along very well nonetheless.Find out more from the 
                <a href = "http://www.oxy-music.com"> official website </a> or download the app from <a href = "https://play.google.com/store/apps/details?id=com.oxymusic.myaudioplayer">playstore </a>. 
